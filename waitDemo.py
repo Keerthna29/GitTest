@@ -27,6 +27,6 @@ driver.find_element_by_css_selector(".promoBtn").click()
 print(driver.find_element_by_css_selector("span.promoInfo").text)
 
 print("architect 2")
-
+print("Final test case")
 
 
